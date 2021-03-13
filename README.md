@@ -1,4 +1,4 @@
-# Fall_2020_IR
+# ir_fall2020
 Store the codes for the courses I am taking at NTUT for the Fall 2020 semester.
 
 Course Name: Introduction to Information Retrieval
